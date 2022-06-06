@@ -1,0 +1,119 @@
+{
+    "m_SelectedDeviceId": "1WMHH815340451",
+    "m_SelectedPackage": {
+        "deviceId": "1WMHH815340451",
+        "name": "com.DefaultCompany.RWDemo3D",
+        "processId": 9062,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "1WMHH815340451",
+            "name": "com.DefaultCompany.RWDemo3D",
+            "processId": 6589,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH815340451",
+            "name": "com.DefaultCompany.RWDemo3D",
+            "processId": 6943,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH815340451",
+            "name": "com.DefaultCompany.RWDemo3D",
+            "processId": 7813,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH815340451",
+            "name": "com.oculus.shellenv",
+            "processId": 3091,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH815340451",
+            "name": "com.DefaultCompany.RWDemo3D",
+            "processId": 10078,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH815340451",
+            "name": "com.DefaultCompany.RWDemo3D",
+            "processId": 10366,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH815340451",
+            "name": "com.DefaultCompany.RWDemo3D",
+            "processId": 8322,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH815340451",
+            "name": "com.DefaultCompany.RWDemo3D",
+            "processId": 8728,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH815340451",
+            "name": "com.DefaultCompany.RWDemo3D",
+            "processId": 9062,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
