@@ -1,0 +1,10 @@
+Stats User 1:
+Average rot: 0.12263626608910891
+Minimum rot: -0.25
+Maximum rot: 0.25
+# Resets: 114
+Avg. distance between resets: 8.511127346910044
+Min. distance between resets: 1.8218186249647215
+Max. distance between resets: 16.539782128825106
+Simulation duration: 0:05:22
+
