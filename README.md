@@ -12,7 +12,7 @@ Code used to perform the latency experiments is located in the Latency folder.
 * Noticeability: Contains code used to perform the noticeability experiments. (Includes the developed framework.)
 
 
-
+## Use of Code
 
 You are free to use this code but we ask you to acknowledge the following paper: 
 
